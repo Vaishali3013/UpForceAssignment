@@ -12,7 +12,6 @@ const Details = ({ activeStep, handleNext, handleBack }) => {
 		width: "100%",
 		bgcolor: "background.paper",
 	};
-	console.log(state);
 
 	return (
 		<div>
